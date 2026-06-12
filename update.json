@@ -1,0 +1,9 @@
+{
+  "latest": "0.1.1",
+  "notes": "Storyboard Flow 0.1.1",
+  "releaseUrl": "https://github.com/lixia88725/storyboard-flow-releases/releases/tag/v0.1.1",
+  "downloads": {
+    "windowsPortable": "https://github.com/lixia88725/storyboard-flow-releases/releases/download/v0.1.1/Storyboard-Flow-Windows-x64.zip",
+    "macosAppleSilicon": "https://github.com/lixia88725/storyboard-flow-releases/releases/download/v0.1.1/Storyboard-Flow-macOS-arm64.zip"
+  }
+}
