@@ -6,16 +6,16 @@ Storyboard Flow is a local desktop app for storyboard work. Open a folder of sto
 
 ## 立即下载 / Download
 
-当前版本 / Latest version: **0.1.22**
+当前版本 / Latest version: **0.1.23**
 
 | 平台 / Platform | 下载 / Download | 说明 / Notes |
 | --- | --- | --- |
-| Windows x64 | [下载 / Download](https://github.com/lixia88725/storyboard-flow-releases/releases/download/v0.1.22/Storyboard-Flow-Windows-x64.zip) | 便携 zip，解压后运行。 / Portable zip; unzip and run. |
-| macOS Apple Silicon | [下载 / Download](https://github.com/lixia88725/storyboard-flow-releases/releases/download/v0.1.22/Storyboard-Flow-macOS-arm64.zip) | 未公证的 .app zip；首次打开可能需要在系统设置中允许。 / Unnotarized .app zip; first launch may require allowing it in System Settings. |
+| Windows x64 | [下载 / Download](https://github.com/lixia88725/storyboard-flow-releases/releases/download/v0.1.23/Storyboard-Flow-Windows-x64.zip) | 便携 zip，解压后运行。 / Portable zip; unzip and run. |
+| macOS Apple Silicon | [下载 / Download](https://github.com/lixia88725/storyboard-flow-releases/releases/download/v0.1.23/Storyboard-Flow-macOS-arm64.zip) | 未公证的 .app zip；首次打开可能需要在系统设置中允许。 / Unnotarized .app zip; first launch may require allowing it in System Settings. |
 
-所有版本和文件也可以在 [GitHub Releases](https://github.com/lixia88725/storyboard-flow-releases/releases/tag/v0.1.22) 查看。
+所有版本和文件也可以在 [GitHub Releases](https://github.com/lixia88725/storyboard-flow-releases/releases/tag/v0.1.23) 查看。
 
-All versions and release files are also available on [GitHub Releases](https://github.com/lixia88725/storyboard-flow-releases/releases/tag/v0.1.22).
+All versions and release files are also available on [GitHub Releases](https://github.com/lixia88725/storyboard-flow-releases/releases/tag/v0.1.23).
 
 ## 它解决什么问题 / What It Solves
 
@@ -107,5 +107,5 @@ Storyboard Flow is local-first. Project data is stored beside the image folder y
 
 ---
 
-README 自动生成于 / Generated on 2026-06-28.  
-发布页 / Release page: https://github.com/lixia88725/storyboard-flow-releases/releases/tag/v0.1.22
+README 自动生成于 / Generated on 2026-07-08.  
+发布页 / Release page: https://github.com/lixia88725/storyboard-flow-releases/releases/tag/v0.1.23
