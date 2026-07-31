@@ -1,9 +1,9 @@
 {
-  "latest": "0.1.29",
-  "notes": "Storyboard Flow 0.1.29",
-  "releaseUrl": "https://github.com/lixia88725/storyboard-flow-releases/releases/tag/v0.1.29",
+  "latest": "0.1.30",
+  "notes": "Storyboard Flow 0.1.30",
+  "releaseUrl": "https://github.com/lixia88725/storyboard-flow-releases/releases/tag/v0.1.30",
   "downloads": {
-    "windowsPortable": "https://github.com/lixia88725/storyboard-flow-releases/releases/download/v0.1.29/Storyboard-Flow-Windows-x64.zip",
-    "macosAppleSilicon": "https://github.com/lixia88725/storyboard-flow-releases/releases/download/v0.1.29/Storyboard-Flow-macOS-arm64.zip"
+    "windowsPortable": "https://github.com/lixia88725/storyboard-flow-releases/releases/download/v0.1.30/Storyboard-Flow-Windows-x64.zip",
+    "macosAppleSilicon": "https://github.com/lixia88725/storyboard-flow-releases/releases/download/v0.1.30/Storyboard-Flow-macOS-arm64.zip"
   }
 }
